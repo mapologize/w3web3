@@ -1,0 +1,13 @@
+{
+    "name": "serverless-website-api",
+    "version": "1.0.0",
+    "main": "app.js",
+    "scripts": {
+      "build": "echo 'Build not required for static site'",
+      "start": "node app.js"
+    },
+    "dependencies": {
+      "express": "^4.17.1"
+    }
+  }
+  
